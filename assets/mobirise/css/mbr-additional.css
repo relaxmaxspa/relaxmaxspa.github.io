@@ -23,7 +23,7 @@
 }
 #content5-1s .mbr-article P {
   color: #000000;
-  text-align: center;
+  text-align: left;
 }
 #content5-2b .mbr-header .mbr-header__text {
   text-align: center;
@@ -38,7 +38,7 @@
 }
 #content5-2b .mbr-article P {
   color: #000000;
-  text-align: center;
+  text-align: left;
 }
 #content5-2c .mbr-header .mbr-header__text {
   text-align: center;
@@ -53,15 +53,12 @@
 }
 #content5-2c .mbr-article P {
   color: #000000;
-  text-align: center;
+  text-align: left;
 }
-#testimonials1-1g .mbr-reviews__author-name {
+#features1-2h .mbr-section-title .mbr-header__text {
   color: #ffffff;
 }
-#testimonials1-1g .mbr-reviews__author-bio {
-  color: #ffffff;
-}
-#testimonials1-1g .mbr-section__header {
+#features1-2h P {
   color: #ffffff;
 }
 #content5-1t .mbr-header .mbr-header__text {

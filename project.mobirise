@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png"
   },
@@ -104,19 +104,19 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/depositphotos-64609225-xl-2015-2000x2000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Úszómedencék",
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "Épített medencéink fóliás vagy mozaikos kivitelezésűek, amelyeknek teljes gépészeti szerelését vállaljuk, igény szerint extrák beépítésével. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html#content5-1l\" data-toolbar=\"-mbrBtnMove\">Részletek</a> ",
                 "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/depositphotos-156869968-xl-2017-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -151,7 +151,7 @@
             },
             ".mbr-article P": {
               "color": "#000000",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_params": {
@@ -429,7 +429,7 @@
             },
             ".mbr-article P": {
               "color": "#000000",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_params": {
@@ -613,7 +613,7 @@
             },
             ".mbr-article P": {
               "color": "#000000",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_params": {
@@ -670,72 +670,176 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showName": true,
-            "showBio": true,
-            "count": 3,
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": false,
+            "showCaptions": true,
+            "showButtons": false,
             "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingBottom": 3,
+            "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos-83108586-xl-2015-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#3a95cd",
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#27aae0",
+            "overlayOpacity": 0.5
           },
-          "header": "ÜGYFELEINK VISSZAJELZÉSEI:",
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+          "headerAlign": "left",
+          "header": "ÜGYFELEINK VISSZAJELZÉSEI",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
             },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>"
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "edit-2",
+              "family": "Mobirise2",
+              "link": "",
+              "size": 0,
+              "active": true
             }
-          ],
+          },
+          "title1": "TERVEZÉS",
+          "caption1": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "Mobirise2",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title2": "ÉPÍTÉS",
+          "caption2": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "Mobirise2",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title3": "KARBANTARTÁS",
+          "caption3": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "Mobirise2",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title4": "SZERVIZELÉS",
+          "caption4": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
+          "_name": "features1",
+          "_anchor": "features1-2h",
           "_styles": {
-            ".mbr-reviews__author-name": {
+            ".mbr-section-title .mbr-header__text": {
               "color": "#ffffff"
             },
-            ".mbr-reviews__author-bio": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__header": {
+            "P": {
               "color": "#ffffff"
             }
-          },
-          "_anchor": "testimonials1-1g",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
-            }
-          ]
+          }
         },
         {
           "_params": {
@@ -909,7 +1013,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>CÍM<br></b>Hotel Szerviz Kft.<br>1033 Budapest, Hévízi út 27.<br><br>\n<strong>KAPCSOLAT</strong><br>\nTel.: <b><a href=\"tel:+36-10-211-2328\" class=\"text-warning\">+36302112328</a></b><br>Email:<b>&nbsp;</b><a href=\"mailto:info@hotel-szerviz.hu\" class=\"text-warning\"><b>info@hotel-szerviz.hu</b></a><b><a href=\"tel:+36-10-211-2328\" class=\"text-warning\"><br></a></b><br>",
+          "text1": "<b>CÍM<br></b>Hotel Szerviz Kft.<br>1033 Budapest, Hévízi út 27.<br><br>\n<strong>KAPCSOLAT</strong><br>\nTel.: <b><a href=\"tel:+36-10-211-2328\" class=\"text-warning\">+36302112328</a></b><br>Email:<b>&nbsp;</b><a href=\"mailto:info@hotel-szerviz.hu\" class=\"text-warning\"><b>info@hotel-szerviz.hu</b></a><br><br><b>Facebook/Relaxmaxspa<a href=\"mailto:info@hotel-szerviz.hu\" class=\"text-warning\"><br></a></b><b><a href=\"tel:+36-10-211-2328\" class=\"text-warning\"><br></a></b><br>",
           "text2": "&nbsp;",
           "_tags": [
             "Theme"
@@ -924,27 +1028,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Kövessen minket Facebookon is!",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1r"
         }
       ]
     }
