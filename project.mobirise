@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 50,
+    "uniqCompNum": 89,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png"
   },
@@ -23,7 +23,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Tudjuk, hogy egy medence kiépítése hosszú távra szóló döntés, ezért mindent megteszünk, hogy pontosan olyan legyen a végeredmény, amilyet Ön megálmodott. Cégünk több mint 15 éves tapasztalattal rendelkezik a kül- és beltéri úszómedencék építésének, karbantartásának, szervizelésének területén. Épített medencéink fóliás vagy mozaikos kivitelezésűek, amelyeknek teljes gépészeti szerelését vállaljuk, igény szerint extrák beépítésével. Kínálatunkban masszázsmedencéket is talál különböző méretekben és felszereltséggel, amelyek telepítését, szervizelését szintén ránk bízhatja. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -59,7 +59,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Rólunk</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Szolgáltatásaink</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Referenciák</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-1s\">Rólunk</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-1h\">Szolgáltatásaink</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-1k\">Referenciák</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -98,32 +98,32 @@
                 "showTitle": true,
                 "title": "Wellness a maximumon!",
                 "contentAlign": "right",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Ismerjen meg minket!</a> ",
+                "text": "Cégünk több mint 15 éves tapasztalattal rendelkezik a kül- és beltéri úszómedencék építésének, karbantartásának, szervizelésének területén.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html#content5-1s\" data-toolbar=\"-mbrBtnMove\">Ismerjen meg minket!</a> ",
                 "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/depositphotos-64609225-xl-2015-2000x2000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Úszómedencék",
                 "contentAlign": "center",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Részletek</a> ",
+                "text": "Épített medencéink fóliás vagy mozaikos kivitelezésűek, amelyeknek teljes gépészeti szerelését vállaljuk, igény szerint extrák beépítésével. ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html#content5-1l\" data-toolbar=\"-mbrBtnMove\">Részletek</a> ",
                 "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/depositphotos-156869968-xl-2017-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Masszázsmedencék",
                 "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Részletek</a>  ",
+                "text": "Cégünk a prémium minőségű Cal Spas masszázsmedencéket forgalmazz, amelyek telepítését, szervizelését is ránk bízhatja. ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html#content5-1o\" data-toolbar=\"-mbrBtnMove\">Részletek</a>  ",
                 "overlay": true
               }
             ]
@@ -140,7 +140,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#000000"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -148,6 +148,10 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -155,112 +159,32 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos_209896220_xl-2015-2000x1335.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#3a95cd",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.7"
           },
-          "title": "Rólunk",
-          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Részletek</a>",
+          "title": "TÖRTÉNETÜNK",
+          "text": "<p>Álmodja meg medencéjét, és hagyja, hogy megvalósítsuk Önnek!</p><p>Tudjuk, hogy egy medence kiépítése hosszú távra szóló döntés, ezért mindent megteszünk, hogy pontosan olyan legyen a végeredmény, amilyet Ön megálmodott. Cégünk több mint 15 éves tapasztalattal rendelkezik a kül- és beltéri úszómedencék építésének, karbantartásának, szervizelésének területén. Épített medencéink fóliás vagy mozaikos kivitelezésűek, amelyeknek teljes gépészeti szerelését vállaljuk, igény szerint extrák beépítésével.\n</p><p>Kínálatunkban masszázsmedencéket is talál különböző méretekben és felszereltséggel, amelyek telepítését, szervizelését szintén ránk bízhatja. Kizárólagosan a 40 éves múltra visszatekintő, amerikai székhelyű Cal Spas jakuzzigyártó céggel állunk kapcsolatban, amely minket választott közép-európai szervize képviseletének.\n</p><p>Nálunk a szakértelemhez magas minőség is társul – minden általunk forgalmazott termék maradéktalanul megfelel az EU-szabványoknak és követelményeknek.\n</p><p>Rövid határidővel és garanciával dolgozunk, így Önnek nincs más dolga, mint élveznie új medencéjét.\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-2"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019 Wuum",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-9"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Szolgáltatásaink",
-        "order": 2
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Kapcsolat</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Rólunk</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Szolgáltatásaink</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Referenciák</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-20-at-14.21.19-345x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-5"
+          "_anchor": "content5-1s"
         },
         {
           "_inherit": "header1",
@@ -291,7 +215,7 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-j"
+          "_anchor": "header4-1h"
         },
         {
           "_params": {
@@ -303,7 +227,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "4",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -386,8 +310,8 @@
               "active": true
             }
           },
-          "title3": "KARBANTARTÁS",
-          "caption3": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "title3": "KARBANTARTÁS, SZERVIZ",
+          "caption3": "Szervizünk exkluzív budapesti szállodákban, valamint külföldi hajótársaságok luxushajóin található medencék, jakuzzik zavartalan működését biztosítja időszakos karbantartásokkal.<br><br>Emellett a korábban általunk tervezett, kivitelezett vagy telepített medencék és masszázsmedencék időszakos karbantartási munkálatait is ellátjuk.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -410,7 +334,7 @@
             }
           },
           "title4": "SZERVIZELÉS",
-          "caption4": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "caption4": "Szervizünk exkluzív budapesti szállodákban, valamint külföldi hajótársaságok luxushajóin található medencék, jakuzzik zavartalan működését biztosítja időszakos karbantartásokkal.<br>Emellett a korábban általunk tervezett, kivitelezett vagy telepített medencék és masszázsmedencék időszakos karbantartási munkálatait is ellátjuk!",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -456,139 +380,7 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-m"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos-83108586-xl-2015-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.7"
-          },
-          "title": "KIEGÉSZÍTŐ SZÖVEG",
-          "text": "<p>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-s"
-        },
-        {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "TEKINTSE MEG REFERENCIÁINKAT IS!",
-          "meta": "By John Smith posted July 30, 2015",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header3-p"
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">ÚSZÓMEDENCÉK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">MASSZÁZSMEDENCÉK</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-q"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Web Site Generator Description",
-        "title": "Rólunk",
-        "order": 1
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Kapcsolat</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Rólunk</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Szolgáltatásaink</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Referenciák</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-20-at-14.21.19-345x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-6"
+          "_anchor": "features1-1i"
         },
         {
           "_inherit": "header1",
@@ -599,7 +391,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos-202850180-xl-2015-2000x1335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos-193228358-xl-2015-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -611,15 +403,15 @@
             "overlayColor": "#3a95cd",
             "overlayOpacity": 0.5
           },
-          "title": "Rólunk",
-          "text": "15 éve ügyfeleink szolgáltalában",
+          "title": "Úszómedencék",
+          "text": "Több mint 15 éves tapasztalatunknak köszönhetően<br>nem ismerünk lehetetlent!",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-18"
+          "_anchor": "header4-2e"
         },
         {
           "_inherit": "msg-box3",
@@ -636,11 +428,12 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "center"
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
@@ -662,14 +455,218 @@
             "overlayOpacity": "0.7"
           },
           "title": "TÖRTÉNETÜNK",
-          "text": "<p>Cégünk több mint 15 éves tapasztalattal rendelkezik .Kül és beltéri úszómedencék építése, karbantartása, szervizelését végezzük. Amit Ön megálmodik, mi megvalósítjuk! Épített medencéinket fóliás vagy mozaikos kivitelezésűek, vállaljuk a teljes gépészeti szerelést, igény szerinti extrákkal. Nálunk megtalálja a működéshez szükséges vegyszereket, tartozékokat, kiegészítőket is. Forgalmazunk, telepítünk, szervizelünk masszázsmedencéket, különböző méretben, felszereltségben. Kizártólagosan az amerikai 40 éves múltra visszatekintő Cal Spas jacuzzi gyártó céggel állunk kapcsolatban, akik cégünket választották a közép-európai szervizük képviseletének.</p><p>Nálunk a szakértelemhez magas minőségű termék is társul, ami az EU szabványoknak és követelményeknek maradéktalanul megfelel.<br></p>",
+          "text": "<p>Cégünk teljeskörű szolgáltatást nyújt a külső és belső úszómedencék kivitelezésében:<br>a megtervezésétől a földmunkán át, egészen a medencefedésig. Fóliás vagy üvegmozaikos medencéjét kérheti feszített víztükörrel, sós vagy klóros vízrendszerrel, belső világítással, <br>ellenáramoltatóval, vízköpővel és masszázselemekkel.\n</p><p>A medencék tavaszi-téli nagyszervizét, valamint szezon alatti karbantartását is vállaljuk!\n</p><p>Ügyfeleink számára mindig egyedi árajánlatot készítünk,<br>így ha felkeltettük érdeklődését, keressen elérhetőségeink egyikén!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-f"
+          "_anchor": "content5-2b"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-498-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-498-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1108-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1108-1600x1200-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-2036-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2036-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-2864-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2864-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1p"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1q"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos-37587167-xl-2015-2000x2000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#3a95cd",
+            "overlayOpacity": 0.5
+          },
+          "title": "Masszázsmedencék",
+          "text": "Egyedi megoldások az Ön igényeire szabva!",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2d"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos_209896220_xl-2015-2000x1335.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.7"
+          },
+          "title": "TÖRTÉNETÜNK",
+          "text": "<p>Partnerünk a kaliforniai Pomonában található Cal Spas jakuzzigyártó cég, amelynek magas minőségű, többszörösen díjazott termékeit forgalmazzuk.\n</p><p>Kínálatunkban minden igényhez talál masszázsmedencét:<br>forgalmazunk kisebb méretű, háromszemélyes jakuzzikat,<br>normál méretű, különböző felszereltségű jakuzzikat – választható extrákkal,<br>valamint nagy méretű Swim Spa masszázsmedencéket, fittneszeszközökkel felszerelve, ellenáramoltatóval.</p><p>Nézzen körül a<b>&nbsp;<a href=\"https://calspas.com\" target=\"_blank\" class=\"text-warning\">Cal Spas</a></b>&nbsp; kínálatában, és válassza ki álmai masszázsmedencéjét!<br>Ha a raktáron lévő termékeink között nem találja meg a megfelelőt,<br>rövid határidővel legyártatjuk Önnek a választott típust.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-2c"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Wuum",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-9"
         },
         {
           "_params": {
@@ -710,7 +707,18 @@
             "Theme"
           ],
           "_name": "testimonials1",
-          "_anchor": "testimonials1-b",
+          "_styles": {
+            ".mbr-reviews__author-name": {
+              "color": "#ffffff"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__header": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "testimonials1-1g",
           "testimonial": [
             {
               "authorName": "ABANOUB S.",
@@ -727,160 +735,139 @@
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
             }
-          ],
-          "_styles": {
-            ".mbr-reviews__author-name": {
-              "color": "#ffffff"
-            },
-            ".mbr-reviews__author-bio": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__header": {
-              "color": "#ffffff"
-            }
-          }
+          ]
         },
         {
           "_params": {
-            "showMeta": false
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/masszazsmedence-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masszazsmedence-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/masszazsmedence-2-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masszazsmedence-2-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/masszazsmedence-3-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masszazsmedence-3-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/masszazsmedence-8-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masszazsmedence-8-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
           },
-          "title": "TEKINTSE MEG REFERENCIÁINKAT IS!",
-          "meta": "By John Smith posted July 30, 2015",
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-h",
+          "_name": "gallery1",
+          "_anchor": "gallery1-2f"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/masszazsmedence-6-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masszazsmedence-6-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/masszazsmedence-7-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masszazsmedence-7-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/masszazsmedence-4-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masszazsmedence-4-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/masszazsmedence-5-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/masszazsmedence-5-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2g"
+        },
+        {
+          "_inherit": "msg-box3",
           "_styles": {
-            "H3": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
               "text-align": "center"
             }
-          }
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">ÚSZÓMEDENCÉK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">MASSZÁZSMEDENCÉK</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-g"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Web Site Generator Description",
-        "title": "Referenciák",
-        "order": 3
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Kapcsolat</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Rólunk</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Szolgáltatásaink</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Referenciák</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-20-at-14.21.19-345x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-7"
-        },
-        {
-          "_inherit": "header1",
           "_params": {
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos-193228358-xl-2015-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#3a95cd",
-            "overlayOpacity": 0.5
-          },
-          "title": "Referenciáink",
-          "text": "Büszkék vagyunk a munkánkra!",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-19"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#000000"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos_209896220_xl-2015-2000x1335.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -890,329 +877,18 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#3a95cd",
+            "overlayColor": "#28324e",
             "overlayOpacity": "0.7"
           },
-          "title": "ÚSZÓMEDENCÉINK",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "title": "KÉRDÉSE VAN? FORDULJON HOZZÁNK!",
+          "text": "<p>Ha felkeltettük az érdeklődését és szeretne többet megtudni szolgáltatásainkról vagy masszázsmedence termékkínálatunkról, keressen minket elérhetőségeink egyikén!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-w"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-498-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-498-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-1108-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1108-1600x1200-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2036-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2036-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2864-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2864-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-v"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-498-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-498-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-1108-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1108-1600x1200-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2036-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2036-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2864-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2864-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1a"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#000000"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1440.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#3a95cd",
-            "overlayOpacity": "0.7"
-          },
-          "title": "MASSZÁZSMEDENCÉINK",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-1b"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-498-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-498-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-1108-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1108-1600x1200-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2036-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2036-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2864-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2864-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1c"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-498-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-498-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-1108-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1108-1600x1200-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2036-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2036-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2864-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2864-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1d"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "Kapcsolat",
-        "order": 4
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Kapcsolat</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Rólunk</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Szolgáltatásaink</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Referenciák</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-20-at-14.21.19-345x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-8"
+          "_anchor": "content5-1t"
         },
         {
           "_params": {
@@ -1233,7 +909,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>CÍM<br></b>Hotel Szerviz Kft.<br>1033 Budapest, Hévízi út 27.<br><br>\n<strong>KAPCSOLAT</strong><br>\nEmail: <a href=\"mailto:info@hotel-szerviz.hu\"><b>info@hotel-szerviz.hu</b></a><br>\nPhone: <b><a href=\"tel:+36-10-211-2328\" class=\"text-primary\">+36302112328</a></b><br>",
+          "text1": "<b>CÍM<br></b>Hotel Szerviz Kft.<br>1033 Budapest, Hévízi út 27.<br><br>\n<strong>KAPCSOLAT</strong><br>\nTel.: <b><a href=\"tel:+36-10-211-2328\" class=\"text-warning\">+36302112328</a></b><br>Email:<b>&nbsp;</b><a href=\"mailto:info@hotel-szerviz.hu\" class=\"text-warning\"><b>info@hotel-szerviz.hu</b></a><b><a href=\"tel:+36-10-211-2328\" class=\"text-warning\"><br></a></b><br>",
           "text2": "&nbsp;",
           "_tags": [
             "Theme"
@@ -1262,13 +938,13 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "Kövessen minket a Facebookon is!",
+          "text": "Kövessen minket Facebookon is!",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-14"
+          "_anchor": "social-buttons2-1r"
         }
       ]
     }
