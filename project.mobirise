@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 90,
+    "uniqCompNum": 107,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png"
   },
@@ -265,7 +265,7 @@
             }
           },
           "title1": "TERVEZÉS",
-          "caption1": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "caption1": "Van konkrét elképzelése vágyott medencéjéről? Elkészítjük hozzá a terveket! Ha segítségre van szüksége a medence alakját, kivitelét illetően, akkor referenciaképekkel, gyakorlati tanácsokkal inspiráljuk a választást. Minimál vagy rusztikus stílus illik legjobban a kertjéhez? Íves vagy egyenes lépcsőt szeretne? Kisgyermeke van, ezért a medence egyik oldala legyen alacsony vízállású? Sok kérdés merül fel a tervezésnél, amelyek mind formálhatják a végeredményt. Mi maximálisan odafigyelünk az igényeire!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -288,7 +288,7 @@
             }
           },
           "title2": "ÉPÍTÉS",
-          "caption2": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "caption2": "Profi kőműves csapatunk nagy tapasztalattal rendelkezik, gyorsan és precízen építjük meg medencéjét. <br>Ezután jön a gépészet, amelynek során a medencét felszereljük az Ön által kért extrákkal. Kérheti feszített víztükörrel, sós vagy klóros vízrendszerrel, belső világítással, ellenáramoltatóval a folyamatos úszáshoz, vízköpővel, masszázselemekkel, nyakzuhannyal és automata vegyszeradagolóval – csak néhány a nálunk elérhető extrák közül.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -311,7 +311,7 @@
             }
           },
           "title3": "KARBANTARTÁS, SZERVIZ",
-          "caption3": "Szervizünk exkluzív budapesti szállodákban, valamint külföldi hajótársaságok luxushajóin található medencék, jakuzzik zavartalan működését biztosítja időszakos karbantartásokkal.<br><br>Emellett a korábban általunk tervezett, kivitelezett vagy telepített medencék és masszázsmedencék időszakos karbantartási munkálatait is ellátjuk.",
+          "caption3": "Szervizünk exkluzív budapesti szállodákban, valamint külföldi hajótársaságok luxushajóin található medencék, jakuzzik zavartalan működését biztosítja időszakos karbantartásokkal.<br>Emellett a korábban általunk tervezett, kivitelezett vagy telepített medencék és masszázsmedencék időszakos karbantartási munkálatait is ellátjuk, de akkor is fordulhat hozzánk, ha csak a tavaszi és őszi idényfeladatokat szeretné ránk bízni –egész évben a rendelkezésére állunk.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -716,7 +716,7 @@
             }
           },
           "title1": "TERVEZÉS",
-          "caption1": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "caption1": "„Mindenből a legjobbat szeretném, ezért is választottam a Relax Max Spa-t, amikor új házat építtettem. Minden apró részletre odafigyeltek, pont olyan lett a medence, amilyet szerettem volna, tökéletesen illik a kertembe és élvezi a család. Jól működik a rendszer, kevés karbantartást igényel, de ha szükség van rájuk, azonnal jönnek.<br>Köszi Nektek, fiúk!”<br><br>– <b><i>Zoltán, Budapest</i></b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -739,7 +739,7 @@
             }
           },
           "title2": "ÉPÍTÉS",
-          "caption2": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "caption2": "„Szeretem, hogy helyettem is odafigyelnek arra, mikor kell elvégezni a karbantartásokat, mindig előre ütemezik a tavaszi beüzemelést és a téliesítést is.<br>Benne vagyunk a rendszerben, mindig számíthatunk rájuk. Precízek, és nekem ez nagyon fontos!”<br><br><i><b>– Réka, Balatonakarattya</b></i><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -762,7 +762,7 @@
             }
           },
           "title3": "KARBANTARTÁS",
-          "caption3": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+          "caption3": "„Nagyon meg vagyok elégedve a tőlük vásárolt jakuzzival, használjuk télen-nyáron. Megbízható cég, időre leszállították, telepítették azonnal és másnap már csobbantunk is.<br>Kérésre mindig jönnek, szervizelik, hoznak hozzá vegyszert. Csak ajánlani tudom a Relax Max Spa-t!”<br><br><i><b>– Zsolt, Üröm</b></i><b><i><br></i></b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
